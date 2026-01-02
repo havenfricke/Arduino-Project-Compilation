@@ -1,6 +1,3 @@
-## Arduino Project Compilation
-
-This repository is a compilation of basic Arduino code. This collection contains projects with basic I/O capabilities to familiarize with the Arduino Uno r3. 
 
 ### Ana_Digi_IO
 
